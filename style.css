@@ -1,0 +1,43 @@
+ body{
+  
+  height: 100%;
+  background-image: url("http://www.blogforphotos.com/images/hdr-in-helsinki/helsinki-kalastajatorppa-sunset-hdr.jpg");
+  background-repeat: no-repeat;
+  background-position: center center ;
+  background-size: cover;
+  height: 100%;
+ 
+  background-attachment: fixed;
+
+} 
+  
+
+
+ul{
+  list-style-type: none;
+}
+
+
+
+.display {
+  margin-top: 100px;
+  padding-top: 20px; 
+  font-weight: 900; 
+  margin-left: 100px;
+  margin-right: 200px;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 12px;
+  
+
+
+  
+}
+.location{
+  font-size: 40px;
+}
+#temp{
+  font-size: 100px;
+}
+#type{
+  font-size: 30px;
+}
